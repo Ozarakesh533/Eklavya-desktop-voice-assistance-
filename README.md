@@ -66,12 +66,6 @@ To deploy this project run
 **IDLE:** Visual Studio Code
 
   
-## Authors
-
-- [@Apoorva](https://www.github.com/apporva)
-- [@Tanvi Channe](https://www.github.com/apporva)
-- [@Rahul Kamble](https://www.github.com/apporva)
-- [@Vaishnavi](https://www.github.com/apporva)
 
 
 
