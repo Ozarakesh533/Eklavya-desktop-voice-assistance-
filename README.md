@@ -5,16 +5,7 @@
 
 A voice assistant or intelligent personal assistant is a software agent that can perform tasks or services for an individual based on verbal commands i.e. by interpreting human speech and respond via synthesized voices. Users can ask their assistants’ questions, control home automation devices, and media playback via voice, and manage other basic tasks such as email, to-do lists, open or close any application etc with verbal commands.
 
-## Acknowledgements
 
- - [IEEE](https://ieeexplore.ieee.org/document/9051160)
- - [Towards Data Science](https://towardsdatascience.com/understanding-nlp-how-ai-understands-our-languages-77601002cffc)
- - [Ala Tech Source](https://journals.ala.org/index.php/ltr/article/view/7361/10126)
-
-  
-## Documentation
-
-[Project Report](https://github.com/aniketh008/Voice-Assistant-using-AI/blob/2fd1d3b2350362c3b946c915a303b03a18ebd9bd/Project%20Report.pdf)
 
   
 ## Features
