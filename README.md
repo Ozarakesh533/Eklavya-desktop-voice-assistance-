@@ -30,6 +30,10 @@ Install my-project git clone
   cd my-project
 ```
     
+## Demo Video 
+Uploading Eklavya.py - Visual Studio Code 2024-10-03 23-05-40.mp4…
+
+
 ## Screenshots
 
 - Showing the Weather Report of specific City
