@@ -31,7 +31,7 @@ Install my-project git clone
 ```
     
 ## Demo Video 
-Uploading Eklavya.py - Visual Studio Code 2024-10-03 23-05-40.mp4…
+https://github.com/user-attachments/assets/c29444a4-ebdf-4f13-b22e-892042b03f87
 
 
 ## Screenshots
