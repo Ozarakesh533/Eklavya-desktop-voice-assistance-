@@ -33,11 +33,11 @@ Install my-project git clone
 ## Screenshots
 
 - Showing the Weather Report of specific City
-![App Screenshot](https://user-images.githubusercontent.com/52618459/126265894-56aa1402-70b5-4bd5-ad4d-e958624ac6e2.png)
+![Image_1](https://github.com/user-attachments/assets/ec07625e-6862-4131-a3f5-298c0036cb5e)
 - Opening Notepad
-![App Screenshot](https://user-images.githubusercontent.com/52618459/126266153-09a65e02-d7dd-4a7c-acca-2dd856878355.png)
+![Image_3](https://github.com/user-attachments/assets/4beb7f23-bef2-4365-9669-0763b0d8441a)
 - Doing Mathematical Calcutaions
-![App Screenshot](https://user-images.githubusercontent.com/52618459/126266208-484036d2-462e-4249-a45d-29f71a1c7940.png)
+![Image_2](https://github.com/user-attachments/assets/00fc5c0a-367f-4a58-8cea-c404ea901cbc)
 
 
   
