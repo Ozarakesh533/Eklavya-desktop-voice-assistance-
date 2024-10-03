@@ -26,7 +26,7 @@ A voice assistant or intelligent personal assistant is a software agent that can
 Install my-project git clone
 
 ```bash
-  git clone https://github.com/aniketh008/Voice-Assistant-using-AI.git
+  git clone https://github.com/Ozarakesh533/voice-assistant-using-machine-learning.git
   cd my-project
 ```
     
